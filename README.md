@@ -1,9 +1,9 @@
-# Memory matching game
+# Memory_Matrix
 
 
-This project is made using HTML,CSS &amp; JavaScript.
+This project is made using HTML, CSS and JavaScript.
 
 It's a simple online memory matching game, which contains various levels.
 <br>
 
-This game is made by Vaibhav Patel - (vaibhavmehsana123@gmail.com)
+
