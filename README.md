@@ -2,7 +2,7 @@
 
 A simple online game to test your pictorial memory.
 
-Description of the game :- 
+## Description of the game :- 
 <br>
 Given a grid containing  'k' cells (let's say), there will be exactly 'k/2' distinct images hidden behind these 'k' cells where each image will be present exactly twice.
 <br>
